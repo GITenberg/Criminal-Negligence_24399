@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26460
     wikipedia: http://en.wikipedia.org/wiki/J._Francis_McComas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24399#Criminal-Negligence
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-01-22'
 gutenberg_type: Text
